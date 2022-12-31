@@ -1,4 +1,11 @@
 # webbanhang
+Nhóm 3 Thành viên: 
+1.Huỳnh Trung Bửu
+
+2.Trần Minh Nhựt
+
+3.Lê Diệp Trí
+
 
 1.Môi trường cài đặt và công nghệ sử dụng
 
