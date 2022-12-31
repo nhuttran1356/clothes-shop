@@ -21,7 +21,7 @@ Các công nghệ được sử dụng:
 
 −Thực hiện đồ án theo mô hình MVC
 
-−Viết code các chức năng của trang web bằng Java Servlet, Ajax
+−Viết code các chức năng của trang web bằng Java Servlet
 
 2.Tổ chức các lớp của chương trình
 
