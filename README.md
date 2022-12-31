@@ -86,3 +86,12 @@ p. Thống kê doanh thu theo tháng
 q. Thống kê doanh thu theo thứ trong tuần
 
 r. Xem các sản phẩm cửa cửa hàng
+
+
+https://user-images.githubusercontent.com/85027960/210131760-b64f90fe-418c-415e-9243-8942a0bc10b7.PNG
+
+https://user-images.githubusercontent.com/85027960/210131789-2b107fe6-1b9d-4696-b148-836e910b7cc6.PNG
+
+https://user-images.githubusercontent.com/85027960/210131800-624ea69e-89d1-49d2-bd77-f5450c2fa32c.PNG
+
+https://user-images.githubusercontent.com/85027960/210131820-c7f9ccd9-c0da-42ba-9074-9b982a3c91b1.PNG
