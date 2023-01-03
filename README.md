@@ -88,10 +88,9 @@ q. Thống kê doanh thu theo thứ trong tuần
 r. Xem các sản phẩm cửa cửa hàng
 
 
-https://user-images.githubusercontent.com/85027960/210131760-b64f90fe-418c-415e-9243-8942a0bc10b7.PNG
+![210131760-b64f90fe-418c-415e-9243-8942a0bc10b7](https://user-images.githubusercontent.com/85027960/210312065-41d8af9f-9865-4416-a99d-7ed7fe998277.png)
+![210131789-2b107fe6-1b9d-4696-b148-836e910b7cc6](https://user-images.githubusercontent.com/85027960/210312074-3991049f-f94b-4493-ae44-3bccdd519181.png)
+![210131800-624ea69e-89d1-49d2-bd77-f5450c2fa32c](https://user-images.githubusercontent.com/85027960/210312086-25c871fa-1da2-4f72-9054-81a820ac72b7.png)
+![210131820-c7f9ccd9-c0da-42ba-9074-9b982a3c91b1](https://user-images.githubusercontent.com/85027960/210312091-79032ea0-6502-4a64-8d52-ce90638f4e24.png)
 
-https://user-images.githubusercontent.com/85027960/210131789-2b107fe6-1b9d-4696-b148-836e910b7cc6.PNG
 
-https://user-images.githubusercontent.com/85027960/210131800-624ea69e-89d1-49d2-bd77-f5450c2fa32c.PNG
-
-https://user-images.githubusercontent.com/85027960/210131820-c7f9ccd9-c0da-42ba-9074-9b982a3c91b1.PNG
